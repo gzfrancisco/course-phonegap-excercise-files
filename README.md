@@ -1,4 +1,3 @@
-MoMo-Bogota-2012
-================
+# PhonegapCourse-ExerciseFiles
 
-Proyecto Phonegap para el MobileMonday 2012
+Archivos de los ejercicios impartidos en el taller Phonegap impartido en Mobile Mondays '12 Colombia, Bogota.
